@@ -17,14 +17,6 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-Google Play Services
-
- 
-
-Request install packages permission
-We use the REQUEST_INSTALL_PACKAGES permission to enable users to update our app offline with a local server. This permission allows our app to install the updated version of the app without requiring the user to manually download and install the update. This is necessary to facilitate offline updates. We do not collect any personal information or data through this permission and it is used solely for the purpose of updating the app offline with a local server.
-example update video
-https://raw.githubusercontent.com/saeidpsl/streamq8/main/screen.mp4
 
 
 Cookies
