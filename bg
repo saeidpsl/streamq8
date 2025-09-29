@@ -1,9 +1,12 @@
-
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://panel.thekee2.com/mobile//Background/682f55c10fa4e.png" />
+    <title>Redirecting...</title>
+    <script>
+      window.location.href = "https://panel.thekee2.com/mobile//Background/682f55c10fa4e.png"; 
+    </script>
   </head>
-  <body> 
+  <body>
+    <p>در حال انتقال... اگر اتوماتیک منتقل نشدید <a href="https://example.com">اینجا کلیک کنید</a>.</p>
   </body>
-</html>
+</html> 
